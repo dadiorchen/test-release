@@ -8,6 +8,7 @@ on:
       - beta
       - alpha
       - next-major
+      - feature-c
 
 jobs:
   publish:
