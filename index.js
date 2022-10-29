@@ -6,3 +6,4 @@ console.log("fix2");
 console.log("feature 1");
 console.log("fix3");
 console.log("break 1");
+console.log("fix4");
