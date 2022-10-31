@@ -9,6 +9,7 @@ on:
       - alpha
       - next-major
       - feature-c
+      - feature-d
 
 jobs:
   publish:
