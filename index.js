@@ -15,3 +15,4 @@ console.log("new feature on master");
 console.log("new feature on master");
 console.log("feature-c commit 1");
 console.log("feature-c commit 2");
+console.log("feature-d commit 1");
